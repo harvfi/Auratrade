@@ -1,0 +1,7 @@
+{
+  "name": "aura",
+  "description": "A high-performance token trading and analysis platform with integrated Gemini AI insights, real-time simulated charts, and market sentiment analysis.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
